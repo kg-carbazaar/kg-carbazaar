@@ -3,7 +3,7 @@ Full-stack dev (TypeScript + Python) who breaks things and then fixes them like 
 
 ---
 
-### 🛠 Tech I use (and sometimes fight with)
+### Tech I use (and sometimes fight with)
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
